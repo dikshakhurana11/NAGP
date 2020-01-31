@@ -1,0 +1,188 @@
+{
+	"january": {
+		"public": [{
+				"Date": "01-01-2020",
+				"Holiday": "New Year's Day",
+				"Day": "Wed"
+			},
+			{
+				"Date": "26-01-2020",
+				"Holiday": "Republic Day",
+				"Day": "Sun"
+			}
+
+		],
+		"flexible": [{
+				"Date": "15-01-2020",
+				"Holiday": "Makar Sankranti",
+				"Day": "Wed"
+			},
+			{
+				"Date": "15-01-2020",
+				"Holiday": "Pongal",
+				"Day": "Wed"
+			},
+			{
+				"Date": "30-01-2020",
+				"Holiday": "Vasant Panchami",
+				"Day": "Thu"
+			}
+		]
+	},
+	"february": {
+		"public": [],
+		"flexible": [{
+			"Date": "21-02-2020",
+			"Holiday": "Maha Shivaratri",
+			"Day": "Fri"
+		}]
+	},
+	"march": {
+		"public": [{
+			"Date": "10-03-2020",
+			"Holiday": "Holi",
+			"Day": "Tue"
+		}],
+		"flexible": [
+
+		]
+	},
+	"april": {
+		"public": [
+
+		],
+		"flexible": [{
+				"Date": "02-04-2020",
+				"Holiday": "Ram Navami",
+				"Day": "Thur"
+			},
+			{
+				"Date": "06-04-2020",
+				"Holiday": "Mahavir Jayanti",
+				"Day": "Mon"
+			},
+			{
+				"Date": "10-04-2020",
+				"Holiday": "Good Friday",
+				"Day": "Fri"
+			},
+			{
+				"Date": "13-04-2020",
+				"Holiday": "Vaisakhi",
+				"Day": "Mon"
+			}
+
+		]
+	},
+	"may": {
+		"public": [
+
+		],
+		"flexible": [{
+			"Date": "24-05-2020",
+			"Holiday": "*Idul Fitr",
+			"Day": "Sun"
+		}]
+	},
+	"june": {
+		"public": [
+
+		],
+		"flexible": [{
+			"Date": "19-06-2020",
+			"Holiday": "Nagarro's Day of Reason",
+			"Day": "Fri"
+		}]
+	},
+	"july": {
+		"public": [
+
+		],
+		"flexible": [{
+			"Date": "31-07-2020",
+			"Holiday": "Bakrid",
+			"Day": "Fri"
+		}]
+	},
+	"august": {
+		"public": [
+
+		],
+		"flexible": [{
+				"Date": "11-08-2020",
+				"Holiday": "Bakrid",
+				"Day": "Fri"
+			},
+			{
+				"Date": "15-08-2020",
+				"Holiday": "Independence Day",
+				"Day": "Fri"
+			},
+			{
+				"Date": "22-08-2020",
+				"Holiday": "Ganesh Chaturthi",
+				"Day": "Fri"
+			},
+			{
+				"Date": "30-08-2020",
+				"Holiday": "Onam",
+				"Day": "Fri"
+			}
+		]
+	},
+	"september": {
+		"public": [
+
+		],
+		"flexible": [
+
+		]
+	},
+	"october": {
+		"public": [{
+				"Date": "02-10-2020",
+				"Holiday": "Gandhi Jayanti",
+				"Day": "Fri"
+			},
+			{
+				"Date": "26-10-2020",
+				"Holiday": "Dussehra",
+				"Day": "Fri"
+			}
+		],
+		"flexible": [
+
+		]
+	},
+	"november": {
+		"public": [
+
+		],
+		"flexible": [{
+				"Date": "16-11-2020",
+				"Holiday": "Bhai Dooj",
+				"Day": "Fri"
+			},
+			{
+				"Date": "20-11-2020",
+				"Holiday": "Chhath Puja",
+				"Day": "Fri"
+			},
+			{
+				"Date": "30-11-2020",
+				"Holiday": "Guru Nanak Jayanti",
+				"Day": "Fri"
+			}
+		]
+	},
+	"decemeber": {
+		"public": [{
+			"Date": "25-12-2020",
+			"Holiday": "Christmas Day",
+			"Day": "Fri"
+		}],
+		"flexible": [
+
+		]
+	}
+}
